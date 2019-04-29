@@ -1,0 +1,18 @@
+{
+    "name": "anstag/brackets-validation",
+    "description": "Simple package for validate brackets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ampilogov Nikolay",
+            "email": "kolyanwork@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
